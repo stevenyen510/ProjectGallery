@@ -47,12 +47,10 @@
 	data</li>
 	</ul>
 
-	<img width=711 height=526
-	src="projImages/image003.jpg"></p>
-	<br><img width=509 height=341
-	src="projImages/image004.jpg"><br>
-	<img width=711 src="projImages/image004b.png">	
-<br>
+<img width=711 height=526 src="projImages/image003.jpg">
+<br><img width=509 height=341 src="projImages/image004.jpg"><br>
+<img width=711 src="projImages/image004b.png"><br>
+
 <a href = "#tableContents">Back to Top</a><br><hr>
 <h1 id="MazeProj">Random maze generator and solver</h1>
 <a href = "https://github.com/stevenyen510/random-maze-solver">Project Link</a><br>
